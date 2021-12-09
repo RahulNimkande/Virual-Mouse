@@ -19,11 +19,8 @@ camera works with the help of different image processing techniques.
   Python: (3.6 - 3.8.5)<br>
   Anaconda Distribution: To download click [here](https://www.anaconda.com/products/individual).
   
-  ### Procedure
-  ```bash
-  git clone https://github.com/xenon-19/Gesture-Controlled-Virtual-Mouse.git
-  ```
-  For detailed information about cloning visit [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
+  Download and Extract the Project Folder Name Virtual-Mouse.<br>
+  And then Open the Virtual-Mouse Folder in VsCode as shown in Video.
   
   Step 1: 
   ```bash
@@ -61,6 +58,6 @@ camera works with the help of different image processing techniques.
   
   Step 6:
   ```bash 
-  python .py
+  python Virtual_Mouse.py
   ```
 
