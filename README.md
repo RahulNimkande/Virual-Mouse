@@ -32,31 +32,12 @@ camera works with the help of different image processing techniques.
   conda activate gest
   ```
   
-  Step 3:
-  ```bash
-  cd to the Virtual-Mouse folder
-  ```
-  Command may look like: `cd C:\Users\.....\Virtual-Mouse`
-  
+  Step 3:  
   ```bash
   pip install -r requirements.txt
   ```
   
   Step 4:
-  ```bash 
-  conda install PyAudio
-  ```
-  ```bash 
-  conda install pywin32
-  ```
-  
-  Step 5:
-  ``` 
-  cd to the src folder
-  ```
-  Command may look like: `cd C:\Users\.....\Virtual-Mouse\src`
-  
-  Step 6:
   ```bash 
   python Virtual_Mouse.py
   ```
