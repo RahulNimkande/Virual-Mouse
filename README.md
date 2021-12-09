@@ -12,7 +12,7 @@ camera works with the help of different image processing techniques.
  _Video Link: [link](https://www.youtube.com/watch?v=ufm6tfgo-OA&ab_channel=Proton)_
 
 
-# Getting Started
+# How to setup and run
 
   ### Pre-requisites
   
@@ -37,6 +37,11 @@ camera works with the help of different image processing techniques.
   
   Step 3:
   ```bash
+  cd to the Virtual-Mouse folder
+  ```
+  Command may look like: `cd C:\Users\.....\Virtual-Mouse`
+  
+  ```bash
   pip install -r requirements.txt
   ```
   
@@ -50,12 +55,12 @@ camera works with the help of different image processing techniques.
   
   Step 5:
   ``` 
-  cd to the GitHub Repo till src folder
+  cd to the src folder
   ```
-  Command may look like: `cd C:\Users\.....\Gesture-Controlled-Virtual-Mouse\src`
+  Command may look like: `cd C:\Users\.....\Virtual-Mouse\src`
   
   Step 6:
   ```bash 
-  python Proton.py
+  python .py
   ```
 
